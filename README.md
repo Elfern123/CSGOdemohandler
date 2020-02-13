@@ -1,17 +1,16 @@
 # CSGOdemohandler
-A handy python tool for downloading and unpacking demos from HLTV and ESEA. Also can upload to Noesis.gg automatically.
+A handy python tool for downloading and unpacking demos from HLTV, Faceit and ESEA. Also can upload to Noesis.gg automatically.
 
-You need to get the following packages:
+To install required dependencies: 
 
-pip install requests
-
-pip install webbot
-
-pip install patool
-
-
+```
+pip -install -r requirements.txt
+```
 
 You also need unrar.exe for Windows to be able to open HLTV  demos, put the exe in the same folder as the program and config file.
+
+
+Config file has to be placed in the same folder as the program.
 
 Config file follows the following format:
 
