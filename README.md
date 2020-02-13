@@ -10,7 +10,7 @@ pip -install -r requirements.txt
 You also need unrar.exe for Windows to be able to open HLTV  demos, put the exe in the same folder as the program and config file.
 
 
-Config file has to be placed in the same folder as the program.
+Config file has to be placed in the same folder as the program and has to be named config.txt.
 
 Config file follows the following format:
 
